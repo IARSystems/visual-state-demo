@@ -10,7 +10,11 @@ IAR Visual State can generate code using the C language.
 ### IAR Visual State
 The Visual State project is set to generate C code (with C-SPY Link support) by default.
 
-1. Go to __Project__ → __Code generate__ (<kbd>F9</kbd>).
+1. In the main toolbar select between the `reduced` or the `full` model.
+
+<img width="643" height="119" alt="image" src="https://github.com/user-attachments/assets/67a9dbaa-79d2-42d2-b927-7aa41be08ccf" />
+
+2. Go to __Project__ → __Code generate__ (<kbd>F9</kbd>).
 
 >__Note__ The generated code can be found on the local repository root directory, under the `VS_coder` folder.
 
